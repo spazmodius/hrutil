@@ -1,0 +1,13 @@
+{
+  "name": "@spazmodius/hrutil",
+  "version": "1.0.0",
+  "description": "Utility functions for the hrtime type in Node.js",
+  "repository": "github:spazmodius/hrutil",
+  "main": "hrutil.js",
+  "dependencies": {
+    "@spazmodius/assert": "github:spazmodius/assert"
+  },
+  "devDependencies": {
+    "@spazmodius/hrbench": "github:spazmodius/hrbench"
+  }
+}
