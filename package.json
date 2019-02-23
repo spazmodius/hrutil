@@ -8,6 +8,7 @@
     "@spazmodius/assert": "github:spazmodius/assert"
   },
   "devDependencies": {
+    "@spazmodius/gwt": "github:spazmodius/gwt",
     "@spazmodius/hrbench": "github:spazmodius/hrbench"
   }
 }
